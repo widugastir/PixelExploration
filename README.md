@@ -1,2 +1,2 @@
-![](readme_image.gif)
 # Pixel Exploration
+![](readme_image.gif)
